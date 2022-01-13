@@ -9,7 +9,7 @@ A smart system made by using Node mcu dev board
 4. Hi-link (220V ac to 5v dc)
 
 
-# Circuir Diagram
+# Circuit Diagram
 
 <p align ="center"><img src="https://raw.githubusercontent.com/Zameel-Byte/home-automation-based-on-ai/main/Screenshot%202021-12-20%20173625.jpg"></p>
 
